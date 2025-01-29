@@ -45,7 +45,8 @@ brew install --cask \
 	fleet \
 	webstorm \
 	goland \
-  zoom
+  zoom \
+  whatsapp
 
 brew tap hashicorp/tap
 
