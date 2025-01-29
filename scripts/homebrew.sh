@@ -44,7 +44,8 @@ brew install --cask \
 	karabiner-elements \
 	fleet \
 	webstorm \
-	goland
+	goland \
+  zoom
 
 brew tap hashicorp/tap
 
